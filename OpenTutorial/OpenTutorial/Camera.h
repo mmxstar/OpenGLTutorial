@@ -33,7 +33,9 @@ public:
 	void ProcessMouseScroll(GLfloat yoffset);
 
 	//return zoom
-	inline GLfloat getZoom() { return m_zoom; }
+	inline GLfloat GetZoom() { return m_zoom; }
+	inline glm::vec3 GetCameraPos() { return m_position; }
+
 //private Metheds;
 private:
 	void updateCameraVectors();

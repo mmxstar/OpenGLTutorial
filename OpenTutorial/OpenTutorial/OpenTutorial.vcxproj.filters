@@ -46,12 +46,30 @@
     <None Include="Shaders\default.vs">
       <Filter>Shaders</Filter>
     </None>
+    <None Include="Shaders\lampShader.vs">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="Shaders\lightShader.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="Shaders\lightShader.vs">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="Shaders\lampShader.frag">
+      <Filter>Shaders</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Image Include="Assets\woodencontainer.jpg">
       <Filter>Assets</Filter>
     </Image>
     <Image Include="Assets\awesomeface.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\container2.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\container2_specular.png">
       <Filter>Assets</Filter>
     </Image>
   </ItemGroup>

@@ -133,9 +133,15 @@
   <ItemGroup>
     <None Include="Shaders\default.frag" />
     <None Include="Shaders\default.vs" />
+    <None Include="Shaders\lampShader.frag" />
+    <None Include="Shaders\lampShader.vs" />
+    <None Include="Shaders\lightShader.frag" />
+    <None Include="Shaders\lightShader.vs" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="Assets\awesomeface.png" />
+    <Image Include="Assets\container2.png" />
+    <Image Include="Assets\container2_specular.png" />
     <Image Include="Assets\woodencontainer.jpg" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

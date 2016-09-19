@@ -1,3 +1,12 @@
-﻿  Camera.cpp
+﻿  main.cpp
+e:\gitrepository\opengltutorial\opentutorial\opentutorial\main.cpp(51): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\gitrepository\opengltutorial\opentutorial\opentutorial\main.cpp(52): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\gitrepository\opengltutorial\opentutorial\opentutorial\main.cpp(56): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\gitrepository\opengltutorial\opentutorial\opentutorial\main.cpp(57): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\gitrepository\opengltutorial\opentutorial\opentutorial\main.cpp(58): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\gitrepository\opengltutorial\opentutorial\opentutorial\main.cpp(59): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\gitrepository\opengltutorial\opentutorial\opentutorial\main.cpp(66): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\gitrepository\opengltutorial\opentutorial\opentutorial\main.cpp(245): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
   OpenTutorial.vcxproj -> E:\GitRepository\OpenGLTutorial\OpenTutorial\Debug\OpenGLTutorial.exe
   OpenTutorial.vcxproj -> E:\GitRepository\OpenGLTutorial\OpenTutorial\Debug\OpenGLTutorial.pdb (Partial PDB)
