@@ -74,8 +74,8 @@
     <LibraryPath>D:\CPP\MyThirdParty\Lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
-    <IncludePath>D:\CPP\MyThirdParty\Include;$(IncludePath)</IncludePath>
-    <LibraryPath>D:\CPP\MyThirdParty\Lib\glew;D:\CPP\MyThirdParty\Lib\GLFW;D:\CPP\MyThirdParty\Lib\SOIL;$(LibraryPath)</LibraryPath>
+    <IncludePath>E:\MyThirdParty\Include;$(IncludePath)</IncludePath>
+    <LibraryPath>E:\MyThirdParty\Lib\glew;E:\MyThirdParty\Lib\GLFW;E:\MyThirdParty\Lib\SOIL;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
